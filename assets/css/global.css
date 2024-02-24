@@ -137,7 +137,7 @@ html {
     box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.449);
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 320px) {
     .container {
         width: 100%;
     }
@@ -155,8 +155,8 @@ html {
 
     .gifimg {
         border-radius: 10px;
-        width: 588px;
-        height: 588px;
+        width: 488px;
+        height: 488px;
         background-image: url("https://media1.tenor.com/m/W33tam-cL30AAAAC/yelynn-yelynnn.gif");
         background-size: contain;
         background-repeat: no-repeat;
